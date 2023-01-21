@@ -7,6 +7,7 @@ class sum{
     int c=6;
     int d=7;
     int f;
+    //this is from local machine
     System.out.println(a+b); //sumation
     System.out.println(a+b+c+d);
 }
