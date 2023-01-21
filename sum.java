@@ -9,6 +9,7 @@ class sum{
     int f;
     //this is from local machine
     int g;
+    //stash
     System.out.println(a+b); //sumation
     System.out.println(a+b+c+d);
 }
